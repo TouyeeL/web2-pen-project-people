@@ -1,0 +1,10 @@
+/* Diagnostic Styling */
+* {
+  outline: 2 px dotted black;
+}
+
+/* Temp bg color */
+
+body{
+    background: #8AEACA;
+  }

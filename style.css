@@ -1,10 +1,17 @@
-/* Diagnostic Styling */
-* {
-  outline: 2 px dotted black;
+#confetti{
+  background: gold;
+  padding: 1em;
+  border-radius: 0.75em;
+  
+}
+#confetti:active{
+  background: red;
+  padding: 1em;
+  border-radius: 0.75em;
 }
 
-/* Temp bg color */
-
 body{
-    background: #8AEACA;
-  }
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
